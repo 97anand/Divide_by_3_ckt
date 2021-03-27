@@ -8,3 +8,6 @@ Circuit Diagram :
 
 
 Waveform:
+
+
+![image](https://user-images.githubusercontent.com/22993146/112728556-e4465380-8f4d-11eb-8506-bcbe939dce61.png)
