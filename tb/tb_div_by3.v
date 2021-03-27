@@ -17,7 +17,7 @@ always
 
 initial
 begin
- clk_in  = 1'b0 
+ clk_in  = 1'b0; 
  reset_n = 1'b0;
  #10;
  reset_n = 1'b1;
